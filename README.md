@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kartik-srvt147/kartik-srvt147/assets/glow-name.svg" alt="Kartikeya Srivastava" width="500"/>
+  <img src="https://raw.githubusercontent.com/kartik-srvt147/kartik-srvt147/main/assets/glow-name.svg" alt="Kartikeya Srivastava" width="500"/>
 </p>
 
 ---
