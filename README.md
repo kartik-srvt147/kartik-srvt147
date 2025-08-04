@@ -10,7 +10,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -31,7 +31,20 @@
 
 ---
 
-## 📬 Connect With Me
+## 📊GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kartik-srvt147&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kartik-srvt147&theme=transparent&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-srvt147&layout=compact&theme=transparent&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📬Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kartikeya20/" target="_blank">
