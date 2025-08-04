@@ -38,10 +38,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kartik-srvt147&theme=transparent&hide_border=true" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-srvt147&layout=compact&theme=transparent&hide_border=true" height="150"/>
-</p>
-
 ---
 
 ## 📬Connect With Me
